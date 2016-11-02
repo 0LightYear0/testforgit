@@ -1,0 +1,15 @@
+
+{
+  "SECRET_KEY": "ThisIsARandomStringWithLength=50!-----------------",
+  "DEBUG": true,
+  "IGNORE_WECHAT_SIGNATURE": false,
+  "WECHAT_TOKEN": "ThisIsAWeChatTokenWhichCanBeARandomString",
+  "WECHAT_APPID": "wxc9d8cbcd2d3b43b9",
+  "WECHAT_SECRET": "af468f39f6d902a02723a845598b2878",
+  "DB_NAME": "wechat_ticket",
+  "DB_USER": "root",
+  "DB_PASS": "123",
+  "DB_HOST": "127.0.0.1",
+  "DB_PORT": "3306",
+  "SITE_DOMAIN": "http://123.57.236.13/"
+}

@@ -1,0 +1,965 @@
+[01/Nov/2016 10:59:58] "GET /a/activity/list HTTP/1.1" 200 7584
+[01/Nov/2016 10:59:58] "GET /3rd/jquery.js HTTP/1.1" 200 85659
+[01/Nov/2016 10:59:58] "GET /3rd/bs/js/bootstrap.min.js HTTP/1.1" 200 27748
+[01/Nov/2016 10:59:58] "GET /css/activity_list.css HTTP/1.1" 200 443
+[01/Nov/2016 10:59:58] "GET /3rd/swig.js HTTP/1.1" 200 46482
+[01/Nov/2016 10:59:58] "GET /js/base.js HTTP/1.1" 200 1868
+[01/Nov/2016 10:59:58] "GET /3rd/bs/css/bootstrap.min.css HTTP/1.1" 200 102923
+[01/Nov/2016 10:59:58] "GET /js/base_admin.js HTTP/1.1" 200 2508
+[01/Nov/2016 10:59:58] "GET /js/activity_list.js HTTP/1.1" 200 5168
+[01/Nov/2016 11:00:00] "GET /api/a/login HTTP/1.1" 200 33
+[01/Nov/2016 11:00:00] "GET /api/a/activity/list HTTP/1.1" 200 459
+[01/Nov/2016 11:00:00] "GET /3rd/bs/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 200 23292
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 01, 2016 - 10:59:42
+Django version 1.10.2, using settings 'WeChatTicket.settings'
+Starting development server at http://0.0.0.0:80/
+Quit the server with CONTROL-C.
+[01/Nov/2016 11:03:35] "GET /a/activity/list HTTP/1.1" 200 7584
+[01/Nov/2016 11:03:35] "GET /css/activity_list.css HTTP/1.1" 200 443
+[01/Nov/2016 11:03:35] "GET /3rd/bs/js/bootstrap.min.js HTTP/1.1" 200 27748
+[01/Nov/2016 11:03:35] "GET /3rd/jquery.js HTTP/1.1" 200 85659
+[01/Nov/2016 11:03:35] "GET /3rd/swig.js HTTP/1.1" 200 46482
+[01/Nov/2016 11:03:35] "GET /3rd/bs/css/bootstrap.min.css HTTP/1.1" 200 102923
+[01/Nov/2016 11:03:35] "GET /js/base.js HTTP/1.1" 200 1868
+[01/Nov/2016 11:03:35] "GET /js/base_admin.js HTTP/1.1" 200 2508
+[01/Nov/2016 11:03:35] "GET /js/activity_list.js HTTP/1.1" 200 5168
+[01/Nov/2016 11:03:36] "GET /api/a/login HTTP/1.1" 200 33
+[01/Nov/2016 11:03:36] "GET /api/a/activity/list HTTP/1.1" 200 459
+[01/Nov/2016 11:03:36] "GET /3rd/bs/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 200 23292
+Not Found: /check.best-proxies.ru:80
+WARNING [2016-11-01 12:43:31,167] base.get_response:152  Not Found: /check.best-proxies.ru:80
+[01/Nov/2016 12:43:31] "CONNECT check.best-proxies.ru:80 HTTP/1.1" 404 1791
+Not Found: /check.best-proxies.ru:80
+WARNING [2016-11-01 15:34:44,644] base.get_response:152  Not Found: /check.best-proxies.ru:80
+[01/Nov/2016 15:34:44] "CONNECT check.best-proxies.ru:80 HTTP/1.1" 404 1791
+Not Found: /
+WARNING [2016-11-01 16:29:48,003] base.get_response:152  Not Found: /
+[01/Nov/2016 16:29:48] "GET / HTTP/1.1" 404 1710
+Not Found: /
+WARNING [2016-11-01 16:31:25,614] base.get_response:152  Not Found: /
+[01/Nov/2016 16:31:25] "GET / HTTP/1.1" 404 1710
+Not Found: /http:/www.izhongsai.com/
+WARNING [2016-11-01 17:38:31,185] base.get_response:152  Not Found: /http:/www.izhongsai.com/
+[01/Nov/2016 17:38:31] "GET http://www.izhongsai.com/ HTTP/1.1" 404 1783
+Not Found: /search.yahoo.com:443
+WARNING [2016-11-01 17:47:16,661] base.get_response:152  Not Found: /search.yahoo.com:443
+[01/Nov/2016 17:47:16] "CONNECT search.yahoo.com:443 HTTP/1.1" 404 1772
+Not Found: /
+WARNING [2016-11-01 18:11:17,481] base.get_response:152  Not Found: /
+[01/Nov/2016 18:11:17] "GET / HTTP/1.0" 404 1718
+Not Found: /
+WARNING [2016-11-01 18:11:32,692] base.get_response:152  Not Found: /
+[01/Nov/2016 18:11:32] "GET / HTTP/1.0" 404 1718
+Not Found: /
+WARNING [2016-11-01 18:12:51,734] base.get_response:152  Not Found: /
+[01/Nov/2016 18:12:51] "GET / HTTP/1.0" 404 1718
+Not Found: /
+WARNING [2016-11-01 18:13:20,363] base.get_response:152  Not Found: /
+[01/Nov/2016 18:13:20] "GET / HTTP/1.0" 404 1718
+Not Found: /check.best-proxies.ru:80
+WARNING [2016-11-01 18:21:40,358] base.get_response:152  Not Found: /check.best-proxies.ru:80
+[01/Nov/2016 18:21:40] "CONNECT check.best-proxies.ru:80 HTTP/1.1" 404 1791
+Not Found: /
+WARNING [2016-11-01 18:31:45,294] base.get_response:152  Not Found: /
+[01/Nov/2016 18:31:45] "GET / HTTP/1.0" 404 1718
+Not Found: /
+WARNING [2016-11-01 18:51:23,722] base.get_response:152  Not Found: /
+[01/Nov/2016 18:51:23] "GET / HTTP/1.0" 404 1718
+Not Found: /
+WARNING [2016-11-01 19:34:06,894] base.get_response:152  Not Found: /
+[01/Nov/2016 19:34:06] "GET / HTTP/1.0" 404 1718
+Not Found: /
+WARNING [2016-11-01 19:36:45,676] base.get_response:152  Not Found: /
+[01/Nov/2016 19:36:45] "GET / HTTP/1.0" 404 1718
+Not Found: /
+WARNING [2016-11-01 19:38:07,550] base.get_response:152  Not Found: /
+[01/Nov/2016 19:38:07] "GET / HTTP/1.0" 404 1718
+Not Found: /
+WARNING [2016-11-01 19:38:09,503] base.get_response:152  Not Found: /
+[01/Nov/2016 19:38:09] "GET / HTTP/1.0" 404 1718
+Not Found: /
+WARNING [2016-11-01 20:00:55,241] base.get_response:152  Not Found: /
+[01/Nov/2016 20:00:55] "GET / HTTP/1.0" 404 1718
+Not Found: /
+WARNING [2016-11-01 20:04:44,638] base.get_response:152  Not Found: /
+[01/Nov/2016 20:04:44] "GET / HTTP/1.0" 404 1718
+Not Found: /
+WARNING [2016-11-01 20:05:55,408] base.get_response:152  Not Found: /
+[01/Nov/2016 20:05:55] "GET / HTTP/1.0" 404 1718
+Not Found: /
+WARNING [2016-11-01 20:15:47,638] base.get_response:152  Not Found: /
+[01/Nov/2016 20:15:47] "GET / HTTP/1.0" 404 1718
+Not Found: /
+WARNING [2016-11-01 20:16:58,882] base.get_response:152  Not Found: /
+[01/Nov/2016 20:16:58] "GET / HTTP/1.0" 404 1718
+Not Found: /http:/testp4.pospr.waw.pl/testproxy.php
+WARNING [2016-11-01 20:29:09,666] base.get_response:152  Not Found: /http:/testp4.pospr.waw.pl/testproxy.php
+[01/Nov/2016 20:29:09] "GET http://testp4.pospr.waw.pl/testproxy.php HTTP/1.1" 404 1830
+Not Found: /
+WARNING [2016-11-01 20:49:17,911] base.get_response:152  Not Found: /
+[01/Nov/2016 20:49:17] "GET / HTTP/1.0" 404 1718
+Not Found: /
+WARNING [2016-11-01 20:51:02,859] base.get_response:152  Not Found: /
+[01/Nov/2016 20:51:02] "GET / HTTP/1.0" 404 1718
+Not Found: /
+WARNING [2016-11-01 21:16:47,000] base.get_response:152  Not Found: /
+[01/Nov/2016 21:16:47] "GET / HTTP/1.0" 404 1718
+Not Found: /
+WARNING [2016-11-01 21:17:19,606] base.get_response:152  Not Found: /
+[01/Nov/2016 21:17:19] "GET / HTTP/1.0" 404 1718
+Not Found: /check.best-proxies.ru:80
+WARNING [2016-11-01 21:19:49,794] base.get_response:152  Not Found: /check.best-proxies.ru:80
+[01/Nov/2016 21:19:49] "CONNECT check.best-proxies.ru:80 HTTP/1.1" 404 1791
+Not Found: /
+WARNING [2016-11-01 21:23:05,476] base.get_response:152  Not Found: /
+[01/Nov/2016 21:23:05] "GET / HTTP/1.0" 404 1718
+Not Found: /
+WARNING [2016-11-01 21:25:53,745] base.get_response:152  Not Found: /
+[01/Nov/2016 21:25:53] "GET / HTTP/1.0" 404 1718
+Not Found: /
+WARNING [2016-11-01 21:45:14,535] base.get_response:152  Not Found: /
+[01/Nov/2016 21:45:14] "GET / HTTP/1.0" 404 1718
+Not Found: /
+WARNING [2016-11-01 21:58:12,499] base.get_response:152  Not Found: /
+[01/Nov/2016 21:58:12] "GET / HTTP/1.0" 404 1710
+Not Found: /
+WARNING [2016-11-01 22:15:49,175] base.get_response:152  Not Found: /
+[01/Nov/2016 22:15:49] "GET / HTTP/1.0" 404 1718
+Not Found: /http:/www.baidu.com/s
+WARNING [2016-11-01 22:40:02,298] base.get_response:152  Not Found: /http:/www.baidu.com/s
+[01/Nov/2016 22:40:02] "GET http://www.baidu.com/s?wd=5118 HTTP/1.1" 404 1778
+Not Found: /
+WARNING [2016-11-01 22:40:58,454] base.get_response:152  Not Found: /
+[01/Nov/2016 22:40:58] "GET / HTTP/1.0" 404 1718
+Not Found: /
+WARNING [2016-11-01 22:42:46,841] base.get_response:152  Not Found: /
+[01/Nov/2016 22:42:46] "GET / HTTP/1.0" 404 1718
+Not Found: /
+WARNING [2016-11-01 22:44:47,550] base.get_response:152  Not Found: /
+[01/Nov/2016 22:44:47] "GET / HTTP/1.0" 404 1718
+Not Found: /
+WARNING [2016-11-01 22:44:50,268] base.get_response:152  Not Found: /
+[01/Nov/2016 22:44:50] "GET / HTTP/1.1" 404 1708
+Not Found: /
+WARNING [2016-11-01 23:03:58,273] base.get_response:152  Not Found: /
+[01/Nov/2016 23:03:58] "GET / HTTP/1.0" 404 1718
+Not Found: /
+WARNING [2016-11-01 23:06:01,848] base.get_response:152  Not Found: /
+[01/Nov/2016 23:06:01] "GET / HTTP/1.0" 404 1718
+Not Found: /http:/www.baidu.com/cache/global/img/gs.gif
+WARNING [2016-11-01 23:22:47,372] base.get_response:152  Not Found: /http:/www.baidu.com/cache/global/img/gs.gif
+[01/Nov/2016 23:22:47] "GET http://www.baidu.com/cache/global/img/gs.gif HTTP/1.1" 404 1836
+Not Found: /
+WARNING [2016-11-01 23:32:53,555] base.get_response:152  Not Found: /
+[01/Nov/2016 23:32:53] "GET / HTTP/1.0" 404 1718
+Not Found: /
+WARNING [2016-11-01 23:43:20,340] base.get_response:152  Not Found: /
+[01/Nov/2016 23:43:20] "GET / HTTP/1.0" 404 1718
+[01/Nov/2016 23:44:19] code 400, message Bad request syntax ('\x00\x9c\x00\x01\x1a+<M\x00\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x00\x00\x001\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00')
+[01/Nov/2016 23:44:19] "  +<M                 1                                                                                                                              " 400 -
+[01/Nov/2016 23:44:45] code 400, message Bad request syntax ('\x00\x0e8Å;.\\CãWÍ\x00\x00\x00\x00\x00')
+[01/Nov/2016 23:44:45] " 8Å;.\CãWÍ     " 400 -
+Not Found: /phpmyadmin
+WARNING [2016-11-02 00:09:27,951] base.get_response:152  Not Found: /phpmyadmin
+[02/Nov/2016 00:09:27] "GET /phpmyadmin HTTP/1.1" 404 1738
+Not Found: /check.best-proxies.ru:80
+WARNING [2016-11-02 00:17:41,356] base.get_response:152  Not Found: /check.best-proxies.ru:80
+[02/Nov/2016 00:17:41] "CONNECT check.best-proxies.ru:80 HTTP/1.1" 404 1791
+Not Found: /
+WARNING [2016-11-02 00:51:08,255] base.get_response:152  Not Found: /
+[02/Nov/2016 00:51:08] "GET / HTTP/1.0" 404 1718
+Not Found: /
+WARNING [2016-11-02 00:57:11,661] base.get_response:152  Not Found: /
+[02/Nov/2016 00:57:11] "GET / HTTP/1.0" 404 1718
+Not Found: /
+WARNING [2016-11-02 01:05:11,059] base.get_response:152  Not Found: /
+[02/Nov/2016 01:05:11] "GET / HTTP/1.0" 404 1718
+Not Found: /
+WARNING [2016-11-02 01:36:02,365] base.get_response:152  Not Found: /
+[02/Nov/2016 01:36:02] "GET / HTTP/1.0" 404 1718
+Not Found: /
+WARNING [2016-11-02 01:39:57,786] base.get_response:152  Not Found: /
+[02/Nov/2016 01:39:57] "GET / HTTP/1.0" 404 1718
+Not Found: /http:/www.baidu.com/cache/global/img/gs.gif
+WARNING [2016-11-02 02:26:48,044] base.get_response:152  Not Found: /http:/www.baidu.com/cache/global/img/gs.gif
+[02/Nov/2016 02:26:48] "GET http://www.baidu.com/cache/global/img/gs.gif HTTP/1.1" 404 1836
+Not Found: /
+WARNING [2016-11-02 02:28:22,280] base.get_response:152  Not Found: /
+[02/Nov/2016 02:28:22] "GET / HTTP/1.0" 404 1718
+Not Found: /
+WARNING [2016-11-02 02:38:19,558] base.get_response:152  Not Found: /
+[02/Nov/2016 02:38:19] "GET / HTTP/1.0" 404 1718
+Not Found: /
+WARNING [2016-11-02 02:41:20,695] base.get_response:152  Not Found: /
+[02/Nov/2016 02:41:20] "GET / HTTP/1.0" 404 1718
+Not Found: /
+WARNING [2016-11-02 02:48:31,616] base.get_response:152  Not Found: /
+[02/Nov/2016 02:48:31] "GET / HTTP/1.0" 404 1718
+Not Found: /
+WARNING [2016-11-02 02:48:49,960] base.get_response:152  Not Found: /
+[02/Nov/2016 02:48:49] "GET / HTTP/1.0" 404 1718
+Not Found: /
+WARNING [2016-11-02 02:52:04,811] base.get_response:152  Not Found: /
+[02/Nov/2016 02:52:04] "GET / HTTP/1.0" 404 1718
+Not Found: /
+WARNING [2016-11-02 03:09:05,201] base.get_response:152  Not Found: /
+[02/Nov/2016 03:09:05] "GET / HTTP/1.0" 404 1718
+Not Found: /
+WARNING [2016-11-02 03:14:16,592] base.get_response:152  Not Found: /
+[02/Nov/2016 03:14:16] "GET / HTTP/1.0" 404 1718
+Not Found: /check.best-proxies.ru:80
+WARNING [2016-11-02 03:21:29,127] base.get_response:152  Not Found: /check.best-proxies.ru:80
+[02/Nov/2016 03:21:29] "CONNECT check.best-proxies.ru:80 HTTP/1.1" 404 1791
+Not Found: /search.yahoo.com:443
+WARNING [2016-11-02 03:48:47,114] base.get_response:152  Not Found: /search.yahoo.com:443
+[02/Nov/2016 03:48:47] "CONNECT search.yahoo.com:443 HTTP/1.1" 404 1772
+Not Found: /
+WARNING [2016-11-02 04:26:05,811] base.get_response:152  Not Found: /
+[02/Nov/2016 04:26:05] "GET / HTTP/1.0" 404 1718
+[02/Nov/2016 04:30:55] "GET /a/login HTTP/1.1" 200 4374
+[02/Nov/2016 04:30:55] "GET /3rd/bs/css/signin.css HTTP/1.1" 200 711
+[02/Nov/2016 04:30:55] "GET /3rd/jquery.js HTTP/1.1" 200 85659
+[02/Nov/2016 04:30:55] "GET /3rd/bs/js/bootstrap.min.js HTTP/1.1" 200 27748
+[02/Nov/2016 04:30:55] "GET /3rd/swig.js HTTP/1.1" 200 46482
+[02/Nov/2016 04:30:55] "GET /js/base.js HTTP/1.1" 200 1868
+[02/Nov/2016 04:30:55] "GET /3rd/bs/css/bootstrap.min.css HTTP/1.1" 200 102923
+[02/Nov/2016 04:30:55] "GET /js/base_admin.js HTTP/1.1" 200 2508
+[02/Nov/2016 04:30:57] "GET /api/a/login HTTP/1.1" 200 33
+Not Found: /favicon.ico
+[02/Nov/2016 04:30:57] "GET /a/activity/list HTTP/1.1" 200 7584
+WARNING [2016-11-02 04:30:57,276] base.get_response:152  Not Found: /favicon.ico
+[02/Nov/2016 04:30:57] "GET /favicon.ico HTTP/1.1" 404 1741
+[02/Nov/2016 04:30:57] "GET /css/activity_list.css HTTP/1.1" 200 443
+[02/Nov/2016 04:30:57] "GET /3rd/bs/css/bootstrap.min.css HTTP/1.1" 200 102923
+[02/Nov/2016 04:30:57] "GET /3rd/jquery.js HTTP/1.1" 200 85659
+[02/Nov/2016 04:30:57] "GET /3rd/bs/js/bootstrap.min.js HTTP/1.1" 200 27748
+[02/Nov/2016 04:30:57] "GET /3rd/swig.js HTTP/1.1" 200 46482
+[02/Nov/2016 04:30:57] "GET /js/base.js HTTP/1.1" 200 1868
+[02/Nov/2016 04:30:57] "GET /js/base_admin.js HTTP/1.1" 200 2508
+[02/Nov/2016 04:30:57] "GET /js/activity_list.js HTTP/1.1" 200 5168
+[02/Nov/2016 04:30:59] "GET /api/a/login HTTP/1.1" 200 33
+[02/Nov/2016 04:30:59] "GET /api/a/activity/list HTTP/1.1" 200 459
+[02/Nov/2016 04:30:59] "GET /3rd/bs/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 200 23292
+[02/Nov/2016 04:31:01] "GET /a/activity/checkin?id=3 HTTP/1.1" 200 5190
+[02/Nov/2016 04:31:01] "GET /3rd/bs/css/bootstrap.min.css HTTP/1.1" 200 102923
+[02/Nov/2016 04:31:01] "GET /css/activity_checkin.css HTTP/1.1" 200 740
+[02/Nov/2016 04:31:01] "GET /3rd/bs/js/bootstrap.min.js HTTP/1.1" 200 27748
+[02/Nov/2016 04:31:01] "GET /3rd/jquery.js HTTP/1.1" 200 85659
+[02/Nov/2016 04:31:01] "GET /3rd/swig.js HTTP/1.1" 200 46482
+[02/Nov/2016 04:31:01] "GET /js/base.js HTTP/1.1" 200 1868
+[02/Nov/2016 04:31:01] "GET /3rd/screenfull/screenfull.min.js HTTP/1.1" 200 1828
+[02/Nov/2016 04:31:01] "GET /js/base_admin.js HTTP/1.1" 200 2508
+[02/Nov/2016 04:31:01] "GET /img/pause.png HTTP/1.1" 200 25836
+[02/Nov/2016 04:31:01] "GET /js/activity_checkin.js HTTP/1.1" 200 2675
+[02/Nov/2016 04:31:01] "GET /img/arrow_right.png HTTP/1.1" 200 32184
+[02/Nov/2016 04:31:02] "GET /api/a/login HTTP/1.1" 200 33
+[02/Nov/2016 04:31:02] "GET /api/a/activity/detail?id=3 HTTP/1.1" 200 319
+[02/Nov/2016 04:31:02] "GET /img/student_logo.png HTTP/1.1" 200 13589
+ERROR   [2016-11-02 04:31:07,705] baseview.api_wrapper:68  Error occurred when requesting /api/a/activity/checkin: 'dict' object is not callable
+Traceback (most recent call last):
+  File "/root/WeChatTicket-master/codex/baseview.py", line 60, in api_wrapper
+    result = func(*args, **kwargs)
+  File "/root/WeChatTicket-master/adminpage/views.py", line 203, in post
+    if tic.activity.id == self.input('actId') and tic.student_id == self.input['studentId']:
+TypeError: 'dict' object is not callable
+[02/Nov/2016 04:31:07] "POST /api/a/activity/checkin HTTP/1.1" 200 66
+[02/Nov/2016 04:31:07] "GET /img/checking.gif HTTP/1.1" 200 701
+[02/Nov/2016 04:31:07] "GET /img/error.png HTTP/1.1" 200 27690
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 01, 2016 - 11:03:24
+Django version 1.10.2, using settings 'WeChatTicket.settings'
+Starting development server at http://0.0.0.0:80/
+Quit the server with CONTROL-C.
+[02/Nov/2016 04:33:33] "GET /a/activity/checkin?id=3 HTTP/1.1" 200 5190
+[02/Nov/2016 04:33:33] "GET /css/activity_checkin.css HTTP/1.1" 200 740
+[02/Nov/2016 04:33:33] "GET /3rd/bs/css/bootstrap.min.css HTTP/1.1" 200 102923
+[02/Nov/2016 04:33:33] "GET /3rd/jquery.js HTTP/1.1" 200 85659
+[02/Nov/2016 04:33:33] "GET /3rd/bs/js/bootstrap.min.js HTTP/1.1" 200 27748
+[02/Nov/2016 04:33:33] "GET /3rd/screenfull/screenfull.min.js HTTP/1.1" 200 1828
+[02/Nov/2016 04:33:33] "GET /3rd/swig.js HTTP/1.1" 200 46482
+[02/Nov/2016 04:33:33] "GET /js/base.js HTTP/1.1" 200 1868
+[02/Nov/2016 04:33:33] "GET /js/base_admin.js HTTP/1.1" 200 2508
+[02/Nov/2016 04:33:34] "GET /img/pause.png HTTP/1.1" 200 25836
+[02/Nov/2016 04:33:35] "GET /js/activity_checkin.js HTTP/1.1" 200 2675
+[02/Nov/2016 04:33:35] "GET /api/a/login HTTP/1.1" 200 33
+[02/Nov/2016 04:33:35] "GET /api/a/activity/detail?id=3 HTTP/1.1" 200 319
+[02/Nov/2016 04:33:35] "GET /img/student_logo.png HTTP/1.1" 200 13589
+[02/Nov/2016 04:33:37] "GET /a/activity/checkin?id=3 HTTP/1.1" 200 5190
+[02/Nov/2016 04:33:37] "GET /css/activity_checkin.css HTTP/1.1" 200 740
+[02/Nov/2016 04:33:37] "GET /3rd/jquery.js HTTP/1.1" 200 85659
+[02/Nov/2016 04:33:37] "GET /3rd/bs/js/bootstrap.min.js HTTP/1.1" 200 27748
+[02/Nov/2016 04:33:37] "GET /3rd/bs/css/bootstrap.min.css HTTP/1.1" 200 102923
+[02/Nov/2016 04:33:37] "GET /3rd/screenfull/screenfull.min.js HTTP/1.1" 200 1828
+[02/Nov/2016 04:33:37] "GET /3rd/swig.js HTTP/1.1" 200 46482
+[02/Nov/2016 04:33:37] "GET /js/base.js HTTP/1.1" 200 1868
+[02/Nov/2016 04:33:37] "GET /js/base_admin.js HTTP/1.1" 200 2508
+[02/Nov/2016 04:33:37] "GET /js/activity_checkin.js HTTP/1.1" 200 2675
+[02/Nov/2016 04:33:38] "GET /api/a/login HTTP/1.1" 200 33
+[02/Nov/2016 04:33:38] "GET /img/pause.png HTTP/1.1" 200 25836
+[02/Nov/2016 04:33:38] "GET /api/a/activity/detail?id=3 HTTP/1.1" 200 319
+[02/Nov/2016 04:33:38] "GET /img/student_logo.png HTTP/1.1" 200 13589
+[02/Nov/2016 04:33:39] "GET /img/arrow_right.png HTTP/1.1" 200 32184
+[02/Nov/2016 04:33:45] "GET /img/checking.gif HTTP/1.1" 200 701
+ERROR   [2016-11-02 04:33:45,472] baseview.api_wrapper:64  Error occurred when requesting /api/a/activity/checkin: Wrong StudentID or TicketID
+Traceback (most recent call last):
+  File "/root/WeChatTicket-master/codex/baseview.py", line 60, in api_wrapper
+    result = func(*args, **kwargs)
+  File "/root/WeChatTicket-master/adminpage/views.py", line 213, in post
+    raise BaseError(-1, "Wrong StudentID or TicketID")
+codex.baseerror.BaseError: Wrong StudentID or TicketID
+[02/Nov/2016 04:33:45] "POST /api/a/activity/checkin HTTP/1.1" 200 64
+[02/Nov/2016 04:33:45] "GET /img/error.png HTTP/1.1" 200 27690
+[02/Nov/2016 04:34:12] "POST /wechat?signature=07b7a2868eba0aed8b0eb236bd5d3b4b931efaa7&timestamp=1478061252&nonce=1051727892&openid=osV0Cv8nd7DT6TS6grc1T4stWAdg HTTP/1.1" 200 915
+[02/Nov/2016 04:34:18] "GET /u/ticket?ticket=a_3_ticket_-1&openid=osV0Cv8nd7DT6TS6grc1T4stWAdg&nsukey=yP%2FvLQ%2FciY%2FKOPyejOpCciuIKWEyya1oVS35hw9NL526xzndCb7hG9Vc%2FeVStA0ppVEfz6FDUy2BqKNc8idve2GfZYejYkCuR3XBHp5RNwohpSX2y7EejjHLqC676STPYCEXF2%2BrxQexCCgZGHiVRQ%3D%3D HTTP/1.1" 200 3770
+[02/Nov/2016 04:34:18] "GET /3rd/swig.js HTTP/1.1" 200 46482
+[02/Nov/2016 04:34:18] "GET /css/base.css HTTP/1.1" 200 1126
+Not Found: /
+WARNING [2016-11-02 04:34:18,098] base.get_response:152  Not Found: /
+[02/Nov/2016 04:34:18] "GET / HTTP/1.1" 404 1708
+[02/Nov/2016 04:34:18] "GET /3rd/qrcode.js HTTP/1.1" 200 13995
+Not Found: /
+[02/Nov/2016 04:34:18] "GET /css/ticket.css HTTP/1.1" 200 388
+WARNING [2016-11-02 04:34:18,106] base.get_response:152  Not Found: /
+[02/Nov/2016 04:34:18] "GET / HTTP/1.1" 404 1708
+Not Found: /
+WARNING [2016-11-02 04:34:18,112] base.get_response:152  Not Found: /
+[02/Nov/2016 04:34:18] "GET / HTTP/1.1" 404 1708
+Not Found: /
+WARNING [2016-11-02 04:34:18,116] base.get_response:152  Not Found: /
+[02/Nov/2016 04:34:18] "GET / HTTP/1.1" 404 1708
+Not Found: /
+WARNING [2016-11-02 04:34:18,120] base.get_response:152  Not Found: /
+[02/Nov/2016 04:34:18] "GET / HTTP/1.1" 404 1708
+[02/Nov/2016 04:34:18] "GET /js/weixin_lib.js HTTP/1.1" 200 1594
+Not Found: /
+WARNING [2016-11-02 04:34:18,126] base.get_response:152  Not Found: /
+[02/Nov/2016 04:34:18] "GET / HTTP/1.1" 404 1708
+Not Found: /
+WARNING [2016-11-02 04:34:18,130] base.get_response:152  Not Found: /
+[02/Nov/2016 04:34:18] "GET / HTTP/1.1" 404 1708
+Not Found: /
+WARNING [2016-11-02 04:34:18,134] base.get_response:152  Not Found: /
+[02/Nov/2016 04:34:18] "GET / HTTP/1.1" 404 1708
+Not Found: /
+WARNING [2016-11-02 04:34:18,138] base.get_response:152  Not Found: /
+[02/Nov/2016 04:34:18] "GET / HTTP/1.1" 404 1708
+Not Found: /
+WARNING [2016-11-02 04:34:18,143] base.get_response:152  Not Found: /
+[02/Nov/2016 04:34:18] "GET / HTTP/1.1" 404 1708
+[02/Nov/2016 04:34:18] "GET /3rd/jquery.js HTTP/1.1" 200 85659
+[02/Nov/2016 04:34:18] "GET /js/base.js HTTP/1.1" 200 1868
+[02/Nov/2016 04:34:18] "GET /js/ticket.js HTTP/1.1" 200 235
+[02/Nov/2016 04:34:18] "GET /api/u/ticket/detail?openid=osV0Cv8nd7DT6TS6grc1T4stWAdg&ticket=a_3_ticket_-1 HTTP/1.1" 200 218
+[02/Nov/2016 04:34:19] "GET /u/ticket?ticket=a_3_ticket_-1&openid=osV0Cv8nd7DT6TS6grc1T4stWAdg&nsukey=yP%2FvLQ%2FciY%2FKOPyejOpCciuIKWEyya1oVS35hw9NL526xzndCb7hG9Vc%2FeVStA0ppVEfz6FDUy2BqKNc8idve2GfZYejYkCuR3XBHp5RNwohpSX2y7EejjHLqC676STPYCEXF2%2BrxQexCCgZGHiVRQ%3D%3D HTTP/1.1" 200 3770
+[02/Nov/2016 04:34:19] "GET /css/base.css HTTP/1.1" 200 1126
+[02/Nov/2016 04:34:19] "GET /css/ticket.css HTTP/1.1" 200 388
+[02/Nov/2016 04:34:19] "GET /3rd/qrcode.js HTTP/1.1" 200 13995
+[02/Nov/2016 04:34:19] "GET /3rd/swig.js HTTP/1.1" 200 46482
+[02/Nov/2016 04:34:19] "GET /js/weixin_lib.js HTTP/1.1" 200 1594
+[02/Nov/2016 04:34:19] "GET /js/weixin_lib.js HTTP/1.1" 200 1594
+Not Found: /favicon.ico
+WARNING [2016-11-02 04:34:19,699] base.get_response:152  Not Found: /favicon.ico
+[02/Nov/2016 04:34:19] "GET /favicon.ico HTTP/1.1" 404 1741
+[02/Nov/2016 04:34:19] "GET /img/bg.png HTTP/1.1" 200 5640
+[02/Nov/2016 04:34:19] "GET /3rd/jquery.js HTTP/1.1" 200 85659
+[02/Nov/2016 04:34:19] "GET /js/base.js HTTP/1.1" 200 1868
+Not Found: /favicon.ico
+WARNING [2016-11-02 04:34:20,005] base.get_response:152  Not Found: /favicon.ico
+[02/Nov/2016 04:34:20] "GET /favicon.ico HTTP/1.1" 404 1741
+Internal Server Error: /wechat
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/django/utils/datastructures.py", line 83, in __getitem__
+    list_ = super(MultiValueDict, self).__getitem__(key)
+KeyError: 'signature'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.4/dist-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+    response = self._get_response(request)
+  File "/usr/local/lib/python3.4/dist-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.4/dist-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/root/WeChatTicket-master/codex/baseview.py", line 21, in dispatch
+    return self.do_dispatch(*args, **kwargs)
+  File "/root/WeChatTicket-master/wechat/wrapper.py", line 211, in do_dispatch
+    if not settings.IGNORE_WECHAT_SIGNATURE and not self._check_signature():
+  File "/root/WeChatTicket-master/wechat/wrapper.py", line 208, in _check_signature
+    return self.lib.check_signature(query['signature'], query['timestamp'], query['nonce'])
+  File "/usr/local/lib/python3.4/dist-packages/django/utils/datastructures.py", line 85, in __getitem__
+    raise MultiValueDictKeyError(repr(key))
+django.utils.datastructures.MultiValueDictKeyError: "'signature'"
+ERROR   [2016-11-02 04:34:22,078] exception.handle_uncaught_exception:124  Internal Server Error: /wechat
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/django/utils/datastructures.py", line 83, in __getitem__
+    list_ = super(MultiValueDict, self).__getitem__(key)
+KeyError: 'signature'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.4/dist-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+    response = self._get_response(request)
+  File "/usr/local/lib/python3.4/dist-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.4/dist-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/root/WeChatTicket-master/codex/baseview.py", line 21, in dispatch
+    return self.do_dispatch(*args, **kwargs)
+  File "/root/WeChatTicket-master/wechat/wrapper.py", line 211, in do_dispatch
+    if not settings.IGNORE_WECHAT_SIGNATURE and not self._check_signature():
+  File "/root/WeChatTicket-master/wechat/wrapper.py", line 208, in _check_signature
+    return self.lib.check_signature(query['signature'], query['timestamp'], query['nonce'])
+  File "/usr/local/lib/python3.4/dist-packages/django/utils/datastructures.py", line 85, in __getitem__
+    raise MultiValueDictKeyError(repr(key))
+django.utils.datastructures.MultiValueDictKeyError: "'signature'"
+[02/Nov/2016 04:34:22] "GET /wechat HTTP/1.1" 500 86189
+[02/Nov/2016 04:34:22] "GET /u/ticket?ticket=a_3_ticket_-1&openid=osV0Cv8nd7DT6TS6grc1T4stWAdg&nsukey=dtiNbGNszrbdMIfO42M9iqnYvTGtCXwDwTiRutTbdakWWBgewPpoCQaS%2FWxn61zXjj10iGRXAo2tTfLz9isJN56TNLWWWBxQaU5jCbYvpsTWBuzBt05YbSFEd%2B%2BQK%2BK8vrUvdUEk1CAc9REOWANRpQYdrVVa6nmM2qYoqV59VxdYr7Ss%2FOhAQXuL%2FF82732v HTTP/1.1" 200 3770
+[02/Nov/2016 04:34:22] "GET /css/ticket.css HTTP/1.1" 200 388
+[02/Nov/2016 04:34:22] "GET /css/base.css HTTP/1.1" 200 1126
+[02/Nov/2016 04:34:22] "GET /3rd/swig.js HTTP/1.1" 200 46482
+[02/Nov/2016 04:34:22] "GET /3rd/qrcode.js HTTP/1.1" 200 13995
+[02/Nov/2016 04:34:22] "GET /js/weixin_lib.js HTTP/1.1" 200 1594
+[02/Nov/2016 04:34:22] "GET /js/ticket.js HTTP/1.1" 200 235
+[02/Nov/2016 04:34:22] "GET /js/base.js HTTP/1.1" 200 1868
+[02/Nov/2016 04:34:22] "GET /3rd/jquery.js HTTP/1.1" 200 85659
+[02/Nov/2016 04:34:23] "GET /api/u/ticket/detail?openid=osV0Cv8nd7DT6TS6grc1T4stWAdg&ticket=a_3_ticket_-1 HTTP/1.1" 200 218
+[02/Nov/2016 04:34:23] "GET /u/ticket?ticket=a_3_ticket_-1&openid=osV0Cv8nd7DT6TS6grc1T4stWAdg&nsukey=dtiNbGNszrbdMIfO42M9iqnYvTGtCXwDwTiRutTbdakWWBgewPpoCQaS%2FWxn61zXjj10iGRXAo2tTfLz9isJN56TNLWWWBxQaU5jCbYvpsTWBuzBt05YbSFEd%2B%2BQK%2BK8vrUvdUEk1CAc9REOWANRpQYdrVVa6nmM2qYoqV59VxdYr7Ss%2FOhAQXuL%2FF82732v HTTP/1.1" 200 3770
+[02/Nov/2016 04:34:24] "GET /u/ticket?ticket=a_3_ticket_-1&openid=osV0Cv8nd7DT6TS6grc1T4stWAdg&nsukey=dtiNbGNszrbdMIfO42M9iqnYvTGtCXwDwTiRutTbdakWWBgewPpoCQaS%2FWxn61zXjj10iGRXAo2tTfLz9isJN56TNLWWWBxQaU5jCbYvpsTWBuzBt05YbSFEd%2B%2BQK%2BK8vrUvdUEk1CAc9REOWANRpQYdrVVa6nmM2qYoqV59VxdYr7Ss%2FOhAQXuL%2FF82732v HTTP/1.1" 200 3770
+[02/Nov/2016 04:34:24] "GET /3rd/qrcode.js HTTP/1.1" 200 13995
+[02/Nov/2016 04:34:24] "GET /3rd/swig.js HTTP/1.1" 200 46482
+[02/Nov/2016 04:34:24] "GET /js/weixin_lib.js HTTP/1.1" 200 1594
+[02/Nov/2016 04:34:24] "GET /css/base.css HTTP/1.1" 200 1126
+[02/Nov/2016 04:34:24] "GET /css/ticket.css HTTP/1.1" 200 388
+[02/Nov/2016 04:34:24] "GET /js/ticket.js HTTP/1.1" 200 235
+[02/Nov/2016 04:34:24] "GET /3rd/jquery.js HTTP/1.1" 200 85659
+[02/Nov/2016 04:34:24] "GET /js/base.js HTTP/1.1" 200 1868
+[02/Nov/2016 04:34:25] "GET /u/ticket?ticket=a_3_ticket_-1&amp;openid=osV0Cv8nd7DT6TS6grc1T4stWAdg HTTP/1.1" 200 3770
+[02/Nov/2016 04:34:25] "GET /img/bg.png HTTP/1.1" 200 5640
+[02/Nov/2016 04:34:25] "GET /img/logo.jpg HTTP/1.1" 200 6836
+[02/Nov/2016 04:34:25] "GET /api/u/ticket/detail?openid=osV0Cv8nd7DT6TS6grc1T4stWAdg&ticket=a_3_ticket_-1 HTTP/1.1" 200 217
+[02/Nov/2016 04:34:25] "GET /3rd/jquery.js HTTP/1.1" 200 85659
+[02/Nov/2016 04:34:25] "GET /3rd/swig.js HTTP/1.1" 200 46482
+[02/Nov/2016 04:34:25] "GET /3rd/qrcode.js HTTP/1.1" 200 13995
+[02/Nov/2016 04:34:25] "GET /js/weixin_lib.js HTTP/1.1" 200 1594
+[02/Nov/2016 04:34:26] "GET /js/base.js HTTP/1.1" 200 1868
+[02/Nov/2016 04:34:26] "GET /js/ticket.js HTTP/1.1" 200 235
+[02/Nov/2016 04:34:27] "GET /u/ticket?ticket=a_3_ticket_-1&amp;openid=osV0Cv8nd7DT6TS6grc1T4stWAdg&nsukey=yP%2FvLQ%2FciY%2FKOPyejOpCciuIKWEyya1oVS35hw9NL526xzndCb7hG9Vc%2FeVStA0ppVEfz6FDUy2BqKNc8idve2GfZYejYkCuR3XBHp5RNwohpSX2y7EejjHLqC676STPYCEXF2%2BrxQexCCgZGHiVRQ%3D%3D HTTP/1.1" 200 3770
+[02/Nov/2016 04:34:27] "GET /u/ticket?ticket=a_3_ticket_-1&openid=osV0Cv8nd7DT6TS6grc1T4stWAdg&nsukey=yP%2FvLQ%2FciY%2FKOPyejOpCciuIKWEyya1oVS35hw9NL526xzndCb7hG9Vc%2FeVStA0ppVEfz6FDUy2BqKNc8idve2GfZYejYkCuR3XBHp5RNwohpSX2y7EejjHLqC676STPYCEXF2%2BrxQexCCgZGHiVRQ%3D%3D HTTP/1.1" 200 3770
+[02/Nov/2016 04:34:27] "GET /3rd/jquery.js HTTP/1.1" 200 85659
+[02/Nov/2016 04:34:27] "GET /3rd/jquery.js HTTP/1.1" 200 85659
+[02/Nov/2016 04:34:27] "GET /3rd/swig.js HTTP/1.1" 200 46482
+[02/Nov/2016 04:34:27] "GET /3rd/swig.js HTTP/1.1" 200 46482
+[02/Nov/2016 04:34:28] "GET /3rd/qrcode.js HTTP/1.1" 200 13995
+[02/Nov/2016 04:34:28] "GET /3rd/qrcode.js HTTP/1.1" 200 13995
+[02/Nov/2016 04:34:28] "GET /js/weixin_lib.js HTTP/1.1" 200 1594
+[02/Nov/2016 04:34:28] "GET /js/weixin_lib.js HTTP/1.1" 200 1594
+[02/Nov/2016 04:34:28] "GET /js/base.js HTTP/1.1" 200 1868
+[02/Nov/2016 04:34:28] "GET /js/base.js HTTP/1.1" 200 1868
+[02/Nov/2016 04:34:28] "GET /js/ticket.js HTTP/1.1" 200 235
+[02/Nov/2016 04:34:28] "GET /js/ticket.js HTTP/1.1" 200 235
+[02/Nov/2016 04:34:29] "GET /u/ticket?ticket=a_3_ticket_-1&openid=osV0Cv8nd7DT6TS6grc1T4stWAdg&nsukey=yP%2FvLQ%2FciY%2FKOPyejOpCciuIKWEyya1oVS35hw9NL526xzndCb7hG9Vc%2FeVStA0ppVEfz6FDUy2BqKNc8idve2GfZYejYkCuR3XBHp5RNwohpSX2y7EejjHLqC676STPYCEXF2%2BrxQexCCgZGHiVRQ%3D%3D HTTP/1.1" 200 3770
+[02/Nov/2016 04:34:29] "GET /3rd/jquery.js HTTP/1.1" 200 85659
+[02/Nov/2016 04:34:29] "GET /3rd/swig.js HTTP/1.1" 200 46482
+[02/Nov/2016 04:34:29] "GET /3rd/qrcode.js HTTP/1.1" 200 13995
+[02/Nov/2016 04:34:30] "GET /js/weixin_lib.js HTTP/1.1" 200 1594
+[02/Nov/2016 04:34:30] "GET /js/base.js HTTP/1.1" 200 1868
+[02/Nov/2016 04:34:30] "GET /js/ticket.js HTTP/1.1" 200 235
+[02/Nov/2016 04:34:32] "GET /u/ticket?ticket=a_3_ticket_-1&openid=osV0Cv8nd7DT6TS6grc1T4stWAdg&nsukey=dtiNbGNszrbdMIfO42M9iqnYvTGtCXwDwTiRutTbdakWWBgewPpoCQaS%2FWxn61zXjj10iGRXAo2tTfLz9isJN56TNLWWWBxQaU5jCbYvpsTWBuzBt05YbSFEd%2B%2BQK%2BK8vrUvdUEk1CAc9REOWANRpQYdrVVa6nmM2qYoqV59VxdYr7Ss%2FOhAQXuL%2FF82732v HTTP/1.1" 200 3770
+[02/Nov/2016 04:34:32] "GET /3rd/jquery.js HTTP/1.1" 200 85659
+[02/Nov/2016 04:34:32] "GET /3rd/swig.js HTTP/1.1" 200 46482
+[02/Nov/2016 04:34:32] "GET /3rd/qrcode.js HTTP/1.1" 200 13995
+[02/Nov/2016 04:34:33] "GET /js/weixin_lib.js HTTP/1.1" 200 1594
+[02/Nov/2016 04:34:33] "GET /js/base.js HTTP/1.1" 200 1868
+[02/Nov/2016 04:34:33] "GET /js/ticket.js HTTP/1.1" 200 235
+[02/Nov/2016 04:34:34] "GET /u/ticket?ticket=a_3_ticket_-1&openid=osV0Cv8nd7DT6TS6grc1T4stWAdg&nsukey=dtiNbGNszrbdMIfO42M9iqnYvTGtCXwDwTiRutTbdakWWBgewPpoCQaS%2FWxn61zXjj10iGRXAo2tTfLz9isJN56TNLWWWBxQaU5jCbYvpsTWBuzBt05YbSFEd%2B%2BQK%2BK8vrUvdUEk1CAc9REOWANRpQYdrVVa6nmM2qYoqV59VxdYr7Ss%2FOhAQXuL%2FF82732v HTTP/1.1" 200 3770
+[02/Nov/2016 04:34:34] "GET /3rd/jquery.js HTTP/1.1" 200 85659
+[02/Nov/2016 04:34:34] "GET /3rd/swig.js HTTP/1.1" 200 46482
+[02/Nov/2016 04:34:34] "GET /3rd/qrcode.js HTTP/1.1" 200 13995
+[02/Nov/2016 04:34:34] "GET /js/weixin_lib.js HTTP/1.1" 200 1594
+[02/Nov/2016 04:34:35] "GET /js/base.js HTTP/1.1" 200 1868
+[02/Nov/2016 04:34:35] "GET /js/ticket.js HTTP/1.1" 200 235
+[02/Nov/2016 04:37:15] "GET /a/activity/checkin?id=3 HTTP/1.1" 200 5190
+[02/Nov/2016 04:37:15] "GET /css/activity_checkin.css HTTP/1.1" 200 740
+[02/Nov/2016 04:37:15] "GET /3rd/jquery.js HTTP/1.1" 200 85659
+[02/Nov/2016 04:37:15] "GET /3rd/bs/css/bootstrap.min.css HTTP/1.1" 200 102923
+[02/Nov/2016 04:37:15] "GET /3rd/bs/js/bootstrap.min.js HTTP/1.1" 200 27748
+[02/Nov/2016 04:37:15] "GET /3rd/screenfull/screenfull.min.js HTTP/1.1" 200 1828
+[02/Nov/2016 04:37:15] "GET /3rd/swig.js HTTP/1.1" 200 46482
+[02/Nov/2016 04:37:15] "GET /js/base.js HTTP/1.1" 200 1868
+[02/Nov/2016 04:37:15] "GET /js/base_admin.js HTTP/1.1" 200 2508
+[02/Nov/2016 04:37:15] "GET /img/pause.png HTTP/1.1" 200 25836
+[02/Nov/2016 04:37:15] "GET /js/activity_checkin.js HTTP/1.1" 200 2675
+[02/Nov/2016 04:37:16] "GET /api/a/login HTTP/1.1" 200 33
+[02/Nov/2016 04:37:16] "GET /api/a/activity/detail?id=3 HTTP/1.1" 200 319
+[02/Nov/2016 04:37:16] "GET /img/student_logo.png HTTP/1.1" 200 13589
+[02/Nov/2016 04:37:18] "GET /img/arrow_right.png HTTP/1.1" 200 32184
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 02, 2016 - 04:33:10
+Django version 1.10.2, using settings 'WeChatTicket.settings'
+Starting development server at http://0.0.0.0:80/
+Quit the server with CONTROL-C.
+Unhandled exception in thread started by <function check_errors.<locals>.wrapper at 0x7fb85df7d048>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/django/utils/autoreload.py", line 226, in wrapper
+    fn(*args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/django/core/management/commands/runserver.py", line 121, in inner_run
+    self.check(display_num_errors=True)
+  File "/usr/local/lib/python3.4/dist-packages/django/core/management/base.py", line 374, in check
+    include_deployment_checks=include_deployment_checks,
+  File "/usr/local/lib/python3.4/dist-packages/django/core/management/base.py", line 361, in _run_checks
+    return checks.run_checks(**kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/django/core/checks/registry.py", line 81, in run_checks
+    new_errors = check(app_configs=app_configs)
+  File "/usr/local/lib/python3.4/dist-packages/django/core/checks/urls.py", line 14, in check_url_config
+    return check_resolver(resolver)
+  File "/usr/local/lib/python3.4/dist-packages/django/core/checks/urls.py", line 24, in check_resolver
+    for pattern in resolver.url_patterns:
+  File "/usr/local/lib/python3.4/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.4/dist-packages/django/urls/resolvers.py", line 313, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python3.4/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.4/dist-packages/django/urls/resolvers.py", line 306, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python3.4/importlib/__init__.py", line 109, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 2254, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 2237, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 2226, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1200, in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 1129, in _exec
+  File "<frozen importlib._bootstrap>", line 1471, in exec_module
+  File "<frozen importlib._bootstrap>", line 321, in _call_with_frames_removed
+  File "/root/WeChatTicket-master/WeChatTicket/urls.py", line 27, in <module>
+    url(r'^api/a/', include('adminpage.urls')),
+  File "/usr/local/lib/python3.4/dist-packages/django/conf/urls/__init__.py", line 50, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib/python3.4/importlib/__init__.py", line 109, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 2254, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 2237, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 2226, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1200, in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 1129, in _exec
+  File "<frozen importlib._bootstrap>", line 1471, in exec_module
+  File "<frozen importlib._bootstrap>", line 321, in _call_with_frames_removed
+  File "/root/WeChatTicket-master/adminpage/urls.py", line 5, in <module>
+    from adminpage.views import *
+  File "/root/WeChatTicket-master/adminpage/views.py", line 203
+    print(tic.student_id)
+                        ^
+TabError: inconsistent use of tabs and spaces in indentation
+Performing system checks...
+
+/usr/local/lib/python3.4/dist-packages/django/db/models/fields/__init__.py:1430: RuntimeWarning: DateTimeField Activity.book_end received a naive datetime (2016-11-02 05:52:10.387054) while time zone support is active.
+  RuntimeWarning)
+[02/Nov/2016 05:52:10] "POST /wechat?signature=569e0a5db85adfb6484a9b89d73aae99570d6c33&timestamp=1478065930&nonce=1029173953&openid=osV0Cv8nd7DT6TS6grc1T4stWAdg HTTP/1.1" 200 563
+[02/Nov/2016 05:52:18] "POST /wechat?signature=1e726d925c8c802220502f357d6a195106f07f8f&timestamp=1478065938&nonce=1283491511&openid=osV0Cv8nd7DT6TS6grc1T4stWAdg HTTP/1.1" 200 1227
+/usr/local/lib/python3.4/dist-packages/django/db/models/fields/__init__.py:1430: RuntimeWarning: DateTimeField Activity.book_end received a naive datetime (2016-11-02 05:52:22.603748) while time zone support is active.
+  RuntimeWarning)
+[02/Nov/2016 05:52:22] "POST /wechat?signature=71e4ccf5af6a8af73625a54a00007969e6fe4e9a&timestamp=1478065942&nonce=10544488&openid=osV0Cv8nd7DT6TS6grc1T4stWAdg HTTP/1.1" 200 563
+[02/Nov/2016 05:52:31] "POST /wechat?signature=098f293dbed93cd850161f88ed787502b8c62d9e&timestamp=1478065951&nonce=1320520135&openid=osV0Cv8nd7DT6TS6grc1T4stWAdg HTTP/1.1" 200 822
+[02/Nov/2016 05:52:46] "POST /wechat?signature=cd77b9f45d02ef4ffc48d748649a68b06ed05d07&timestamp=1478065966&nonce=846191210&openid=osV0Cv8nd7DT6TS6grc1T4stWAdg HTTP/1.1" 200 274
+[02/Nov/2016 05:52:59] "GET /u/help HTTP/1.1" 200 5556
+[02/Nov/2016 05:52:59] "GET /3rd/jquery.js HTTP/1.1" 200 85659
+[02/Nov/2016 05:52:59] "GET /3rd/swig.js HTTP/1.1" 200 46482
+[02/Nov/2016 05:52:59] "GET /js/weixin_lib.js HTTP/1.1" 200 1594
+[02/Nov/2016 05:52:59] "GET /js/help.js HTTP/1.1" 200 465
+ERROR   [2016-11-02 05:53:05,418] wrapper.handle_wechat_msg:235  Error occurred when handling WeChat message {'CreateTime': '1478065985', 'FromUserName': 'osV0Cv8nd7DT6TS6grc1T4stWAdg', 'Content': '抢票 404', 'MsgId': '6348245067312653067', 'ToUserName': 'gh_07809e7775dd', 'MsgType': 'text'}
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/django/db/backends/utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "/usr/local/lib/python3.4/dist-packages/django/db/backends/mysql/base.py", line 110, in execute
+    return self.cursor.execute(query, args)
+  File "/usr/local/lib/python3.4/dist-packages/pymysql/cursors.py", line 166, in execute
+    result = self._query(query)
+  File "/usr/local/lib/python3.4/dist-packages/pymysql/cursors.py", line 322, in _query
+    conn.query(q)
+  File "/usr/local/lib/python3.4/dist-packages/pymysql/connections.py", line 835, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/usr/local/lib/python3.4/dist-packages/pymysql/connections.py", line 1019, in _read_query_result
+    result.read()
+  File "/usr/local/lib/python3.4/dist-packages/pymysql/connections.py", line 1302, in read
+    first_packet = self.connection._read_packet()
+  File "/usr/local/lib/python3.4/dist-packages/pymysql/connections.py", line 981, in _read_packet
+    packet.check_error()
+  File "/usr/local/lib/python3.4/dist-packages/pymysql/connections.py", line 393, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/usr/local/lib/python3.4/dist-packages/pymysql/err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.IntegrityError: (1062, "Duplicate entry 'a_5_ticket_2' for key 'wechat_ticket_unique_id_3e65c1fe_uniq'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/root/WeChatTicket-master/wechat/wrapper.py", line 232, in handle_wechat_msg
+    return inst.handle()
+  File "/root/WeChatTicket-master/wechat/handlers.py", line 136, in handle
+    temp = Ticket.objects.create(student_id = User.objects.get(open_id=self.user.open_id).student_id, unique_id = tic_id, activity = act, status = 1)
+  File "/usr/local/lib/python3.4/dist-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/django/db/models/query.py", line 399, in create
+    obj.save(force_insert=True, using=self.db)
+  File "/usr/local/lib/python3.4/dist-packages/django/db/models/base.py", line 796, in save
+    force_update=force_update, update_fields=update_fields)
+  File "/usr/local/lib/python3.4/dist-packages/django/db/models/base.py", line 824, in save_base
+    updated = self._save_table(raw, cls, force_insert, force_update, using, update_fields)
+  File "/usr/local/lib/python3.4/dist-packages/django/db/models/base.py", line 908, in _save_table
+    result = self._do_insert(cls._base_manager, using, fields, update_pk, raw)
+  File "/usr/local/lib/python3.4/dist-packages/django/db/models/base.py", line 947, in _do_insert
+    using=using, raw=raw)
+  File "/usr/local/lib/python3.4/dist-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/django/db/models/query.py", line 1045, in _insert
+    return query.get_compiler(using=using).execute_sql(return_id)
+  File "/usr/local/lib/python3.4/dist-packages/django/db/models/sql/compiler.py", line 1054, in execute_sql
+    cursor.execute(sql, params)
+  File "/usr/local/lib/python3.4/dist-packages/django/db/backends/utils.py", line 79, in execute
+    return super(CursorDebugWrapper, self).execute(sql, params)
+  File "/usr/local/lib/python3.4/dist-packages/django/db/backends/utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "/usr/local/lib/python3.4/dist-packages/django/db/utils.py", line 94, in __exit__
+    six.reraise(dj_exc_type, dj_exc_value, traceback)
+  File "/usr/local/lib/python3.4/dist-packages/django/utils/six.py", line 685, in reraise
+    raise value.with_traceback(tb)
+  File "/usr/local/lib/python3.4/dist-packages/django/db/backends/utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "/usr/local/lib/python3.4/dist-packages/django/db/backends/mysql/base.py", line 110, in execute
+    return self.cursor.execute(query, args)
+  File "/usr/local/lib/python3.4/dist-packages/pymysql/cursors.py", line 166, in execute
+    result = self._query(query)
+  File "/usr/local/lib/python3.4/dist-packages/pymysql/cursors.py", line 322, in _query
+    conn.query(q)
+  File "/usr/local/lib/python3.4/dist-packages/pymysql/connections.py", line 835, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/usr/local/lib/python3.4/dist-packages/pymysql/connections.py", line 1019, in _read_query_result
+    result.read()
+  File "/usr/local/lib/python3.4/dist-packages/pymysql/connections.py", line 1302, in read
+    first_packet = self.connection._read_packet()
+  File "/usr/local/lib/python3.4/dist-packages/pymysql/connections.py", line 981, in _read_packet
+    packet.check_error()
+  File "/usr/local/lib/python3.4/dist-packages/pymysql/connections.py", line 393, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/usr/local/lib/python3.4/dist-packages/pymysql/err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+django.db.utils.IntegrityError: (1062, "Duplicate entry 'a_5_ticket_2' for key 'wechat_ticket_unique_id_3e65c1fe_uniq'")
+[02/Nov/2016 05:53:05] "POST /wechat?signature=c62c899eaf8033582aa0c12880b28c2960579e51&timestamp=1478065985&nonce=1181513255&openid=osV0Cv8nd7DT6TS6grc1T4stWAdg HTTP/1.1" 200 310
+[02/Nov/2016 05:54:17] "GET /u/help?nsukey=vUmpwFmb3M6v0UAZPMZOJB3H%2F6nXHVniuJ3RMohIqJdcoar4CbYcCJCJfjeQrka%2BQN%2FMaJC4Ln4xbp%2Bs%2Bdz467EoCS%2FM7uiQaqRt%2F24FIbXzOZMLHqfcq30mosoLeedr%2FrnfhaXqcLbxQQ24YgqRgQ%3D%3D HTTP/1.1" 200 5556
+Not Found: /
+WARNING [2016-11-02 05:54:17,641] base.get_response:152  Not Found: /
+[02/Nov/2016 05:54:17] "GET / HTTP/1.1" 404 1708
+Not Found: /
+WARNING [2016-11-02 05:54:17,645] base.get_response:152  Not Found: /
+[02/Nov/2016 05:54:17] "GET / HTTP/1.1" 404 1708
+[02/Nov/2016 05:54:17] "GET /css/base.css HTTP/1.1" 200 1126
+[02/Nov/2016 05:54:17] "GET /js/weixin_lib.js HTTP/1.1" 200 1594
+[02/Nov/2016 05:54:17] "GET /3rd/swig.js HTTP/1.1" 200 46482
+[02/Nov/2016 05:54:17] "GET /js/help.js HTTP/1.1" 200 465
+[02/Nov/2016 05:54:17] "GET /css/help.css HTTP/1.1" 200 381
+[02/Nov/2016 05:54:17] "GET /3rd/jquery.js HTTP/1.1" 200 85659
+[02/Nov/2016 05:54:18] "GET /u/help?nsukey=vUmpwFmb3M6v0UAZPMZOJB3H%2F6nXHVniuJ3RMohIqJdcoar4CbYcCJCJfjeQrka%2BQN%2FMaJC4Ln4xbp%2Bs%2Bdz467EoCS%2FM7uiQaqRt%2F24FIbXzOZMLHqfcq30mosoLeedr%2FrnfhaXqcLbxQQ24YgqRgQ%3D%3D HTTP/1.1" 200 5556
+[02/Nov/2016 05:54:18] "GET /css/help.css HTTP/1.1" 200 381
+[02/Nov/2016 05:54:18] "GET /js/help.js HTTP/1.1" 200 465
+[02/Nov/2016 05:54:18] "GET /css/base.css HTTP/1.1" 200 1126
+[02/Nov/2016 05:54:18] "GET /3rd/swig.js HTTP/1.1" 200 46482
+[02/Nov/2016 05:54:18] "GET /js/weixin_lib.js HTTP/1.1" 200 1594
+[02/Nov/2016 05:54:18] "GET /3rd/jquery.js HTTP/1.1" 200 85659
+[02/Nov/2016 05:54:19] "GET /img/bg.png HTTP/1.1" 200 5640
+[02/Nov/2016 05:54:19] "GET /img/logo.jpg HTTP/1.1" 200 6836
+[02/Nov/2016 05:54:19] "GET /img/chevron-down.png HTTP/1.1" 200 491
+Not Found: /favicon.ico
+WARNING [2016-11-02 05:54:19,167] base.get_response:152  Not Found: /favicon.ico
+[02/Nov/2016 05:54:19] "GET /favicon.ico HTTP/1.1" 404 1741
+Not Found: /favicon.ico
+WARNING [2016-11-02 05:54:19,199] base.get_response:152  Not Found: /favicon.ico
+[02/Nov/2016 05:54:19] "GET /favicon.ico HTTP/1.1" 404 1741
+[02/Nov/2016 05:54:27] "GET /u/help?nsukey=vUmpwFmb3M6v0UAZPMZOJB3H%2F6nXHVniuJ3RMohIqJdcoar4CbYcCJCJfjeQrka%2BQN%2FMaJC4Ln4xbp%2Bs%2Bdz467EoCS%2FM7uiQaqRt%2F24FIbXzOZMLHqfcq30mosoLeedr%2FrnfhaXqcLbxQQ24YgqRgQ%3D%3D HTTP/1.1" 200 5556
+[02/Nov/2016 05:54:27] "GET /u/help?nsukey=vUmpwFmb3M6v0UAZPMZOJB3H%2F6nXHVniuJ3RMohIqJdcoar4CbYcCJCJfjeQrka%2BQN%2FMaJC4Ln4xbp%2Bs%2Bdz467EoCS%2FM7uiQaqRt%2F24FIbXzOZMLHqfcq30mosoLeedr%2FrnfhaXqcLbxQQ24YgqRgQ%3D%3D HTTP/1.1" 200 5556
+[02/Nov/2016 05:54:27] "GET /3rd/jquery.js HTTP/1.1" 200 85659
+[02/Nov/2016 05:54:27] "GET /3rd/jquery.js HTTP/1.1" 200 85659
+[02/Nov/2016 05:54:27] "GET /3rd/swig.js HTTP/1.1" 200 46482
+[02/Nov/2016 05:54:28] "GET /js/weixin_lib.js HTTP/1.1" 200 1594
+[02/Nov/2016 05:54:28] "GET /js/help.js HTTP/1.1" 200 465
+[02/Nov/2016 05:54:28] "GET /3rd/swig.js HTTP/1.1" 200 46482
+[02/Nov/2016 05:54:28] "GET /js/weixin_lib.js HTTP/1.1" 200 1594
+[02/Nov/2016 05:54:28] "GET /js/help.js HTTP/1.1" 200 465
+ERROR   [2016-11-02 05:54:28,609] wrapper.handle_wechat_msg:235  Error occurred when handling WeChat message {'CreateTime': '1478066068', 'FromUserName': 'osV0Cv8nd7DT6TS6grc1T4stWAdg', 'Content': '抢票 404', 'MsgId': '6348245423794938652', 'ToUserName': 'gh_07809e7775dd', 'MsgType': 'text'}
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/django/db/backends/utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "/usr/local/lib/python3.4/dist-packages/django/db/backends/mysql/base.py", line 110, in execute
+    return self.cursor.execute(query, args)
+  File "/usr/local/lib/python3.4/dist-packages/pymysql/cursors.py", line 166, in execute
+    result = self._query(query)
+  File "/usr/local/lib/python3.4/dist-packages/pymysql/cursors.py", line 322, in _query
+    conn.query(q)
+  File "/usr/local/lib/python3.4/dist-packages/pymysql/connections.py", line 835, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/usr/local/lib/python3.4/dist-packages/pymysql/connections.py", line 1019, in _read_query_result
+    result.read()
+  File "/usr/local/lib/python3.4/dist-packages/pymysql/connections.py", line 1302, in read
+    first_packet = self.connection._read_packet()
+  File "/usr/local/lib/python3.4/dist-packages/pymysql/connections.py", line 981, in _read_packet
+    packet.check_error()
+  File "/usr/local/lib/python3.4/dist-packages/pymysql/connections.py", line 393, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/usr/local/lib/python3.4/dist-packages/pymysql/err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.IntegrityError: (1062, "Duplicate entry 'a_5_ticket_2' for key 'wechat_ticket_unique_id_3e65c1fe_uniq'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/root/WeChatTicket-master/wechat/wrapper.py", line 232, in handle_wechat_msg
+    return inst.handle()
+  File "/root/WeChatTicket-master/wechat/handlers.py", line 136, in handle
+    temp = Ticket.objects.create(student_id = User.objects.get(open_id=self.user.open_id).student_id, unique_id = tic_id, activity = act, status = 1)
+  File "/usr/local/lib/python3.4/dist-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/django/db/models/query.py", line 399, in create
+    obj.save(force_insert=True, using=self.db)
+  File "/usr/local/lib/python3.4/dist-packages/django/db/models/base.py", line 796, in save
+    force_update=force_update, update_fields=update_fields)
+  File "/usr/local/lib/python3.4/dist-packages/django/db/models/base.py", line 824, in save_base
+    updated = self._save_table(raw, cls, force_insert, force_update, using, update_fields)
+  File "/usr/local/lib/python3.4/dist-packages/django/db/models/base.py", line 908, in _save_table
+    result = self._do_insert(cls._base_manager, using, fields, update_pk, raw)
+  File "/usr/local/lib/python3.4/dist-packages/django/db/models/base.py", line 947, in _do_insert
+    using=using, raw=raw)
+  File "/usr/local/lib/python3.4/dist-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/django/db/models/query.py", line 1045, in _insert
+    return query.get_compiler(using=using).execute_sql(return_id)
+  File "/usr/local/lib/python3.4/dist-packages/django/db/models/sql/compiler.py", line 1054, in execute_sql
+    cursor.execute(sql, params)
+  File "/usr/local/lib/python3.4/dist-packages/django/db/backends/utils.py", line 79, in execute
+    return super(CursorDebugWrapper, self).execute(sql, params)
+  File "/usr/local/lib/python3.4/dist-packages/django/db/backends/utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "/usr/local/lib/python3.4/dist-packages/django/db/utils.py", line 94, in __exit__
+    six.reraise(dj_exc_type, dj_exc_value, traceback)
+  File "/usr/local/lib/python3.4/dist-packages/django/utils/six.py", line 685, in reraise
+    raise value.with_traceback(tb)
+  File "/usr/local/lib/python3.4/dist-packages/django/db/backends/utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "/usr/local/lib/python3.4/dist-packages/django/db/backends/mysql/base.py", line 110, in execute
+    return self.cursor.execute(query, args)
+  File "/usr/local/lib/python3.4/dist-packages/pymysql/cursors.py", line 166, in execute
+    result = self._query(query)
+  File "/usr/local/lib/python3.4/dist-packages/pymysql/cursors.py", line 322, in _query
+    conn.query(q)
+  File "/usr/local/lib/python3.4/dist-packages/pymysql/connections.py", line 835, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/usr/local/lib/python3.4/dist-packages/pymysql/connections.py", line 1019, in _read_query_result
+    result.read()
+  File "/usr/local/lib/python3.4/dist-packages/pymysql/connections.py", line 1302, in read
+    first_packet = self.connection._read_packet()
+  File "/usr/local/lib/python3.4/dist-packages/pymysql/connections.py", line 981, in _read_packet
+    packet.check_error()
+  File "/usr/local/lib/python3.4/dist-packages/pymysql/connections.py", line 393, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/usr/local/lib/python3.4/dist-packages/pymysql/err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+django.db.utils.IntegrityError: (1062, "Duplicate entry 'a_5_ticket_2' for key 'wechat_ticket_unique_id_3e65c1fe_uniq'")
+[02/Nov/2016 05:54:28] "POST /wechat?signature=335c3f2017545894f691fd99dbbb9578165239e3&timestamp=1478066068&nonce=1159773679&openid=osV0Cv8nd7DT6TS6grc1T4stWAdg HTTP/1.1" 200 310
+ERROR   [2016-11-02 05:54:45,369] wrapper.handle_wechat_msg:235  Error occurred when handling WeChat message {'CreateTime': '1478066085', 'FromUserName': 'osV0Cv8nd7DT6TS6grc1T4stWAdg', 'Content': '退票 404', 'MsgId': '6348245496809382686', 'ToUserName': 'gh_07809e7775dd', 'MsgType': 'text'}
+Traceback (most recent call last):
+  File "/root/WeChatTicket-master/wechat/wrapper.py", line 232, in handle_wechat_msg
+    return inst.handle()
+  File "/root/WeChatTicket-master/wechat/handlers.py", line 168, in handle
+    tic = Ticket.objects.get(student_id= User.objects.get(open_id=self.user.open_id).student_id, activity = act, status = 1)
+  File "/usr/local/lib/python3.4/dist-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/django/db/models/query.py", line 385, in get
+    self.model._meta.object_name
+wechat.models.DoesNotExist: Ticket matching query does not exist.
+[02/Nov/2016 05:54:45] "POST /wechat?signature=9548f9142d2cad59ee100f804220686930524b1c&timestamp=1478066085&nonce=295778356&openid=osV0Cv8nd7DT6TS6grc1T4stWAdg HTTP/1.1" 200 310
+[02/Nov/2016 05:54:53] "POST /wechat?signature=5927c5f61a29b807e0e29e022a837ef372cd1e95&timestamp=1478066093&nonce=1055615696&openid=osV0Cv8nd7DT6TS6grc1T4stWAdg HTTP/1.1" 200 915
+[02/Nov/2016 05:55:06] "POST /wechat?signature=e3e5ccc52e2aa1b38a06baa988e260bf40ef7ddc&timestamp=1478066106&nonce=1910813684&openid=osV0Cv8nd7DT6TS6grc1T4stWAdg HTTP/1.1" 200 274
+[02/Nov/2016 05:55:19] "POST /wechat?signature=4414d8699ee9cd3af90ea6a4a44e77ef097d6d37&timestamp=1478066119&nonce=600701462&openid=osV0Cv8nd7DT6TS6grc1T4stWAdg HTTP/1.1" 200 295
+[02/Nov/2016 05:55:49] "GET /a/activity/list HTTP/1.1" 200 7584
+[02/Nov/2016 05:55:49] "GET /css/activity_list.css HTTP/1.1" 200 443
+[02/Nov/2016 05:55:49] "GET /3rd/jquery.js HTTP/1.1" 200 85659
+[02/Nov/2016 05:55:49] "GET /3rd/bs/js/bootstrap.min.js HTTP/1.1" 200 27748
+[02/Nov/2016 05:55:49] "GET /3rd/bs/css/bootstrap.min.css HTTP/1.1" 200 102923
+[02/Nov/2016 05:55:49] "GET /3rd/swig.js HTTP/1.1" 200 46482
+[02/Nov/2016 05:55:49] "GET /js/base.js HTTP/1.1" 200 1868
+[02/Nov/2016 05:55:49] "GET /js/base_admin.js HTTP/1.1" 200 2508
+[02/Nov/2016 05:55:49] "GET /js/activity_list.js HTTP/1.1" 200 5168
+[02/Nov/2016 05:55:50] "GET /api/a/login HTTP/1.1" 200 33
+[02/Nov/2016 05:55:50] "GET /api/a/activity/list HTTP/1.1" 200 708
+[02/Nov/2016 05:55:50] "GET /3rd/bs/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 200 23292
+[02/Nov/2016 05:56:06] "GET /a/activity/detail?create=1 HTTP/1.1" 200 25618
+[02/Nov/2016 05:56:06] "GET /css/activity_detail.css HTTP/1.1" 200 395
+[02/Nov/2016 05:56:06] "GET /3rd/jquery.js HTTP/1.1" 200 85659
+[02/Nov/2016 05:56:06] "GET /3rd/bs/css/bootstrap.min.css HTTP/1.1" 200 102923
+[02/Nov/2016 05:56:06] "GET /3rd/swig.js HTTP/1.1" 200 46482
+[02/Nov/2016 05:56:06] "GET /3rd/bs/js/bootstrap.min.js HTTP/1.1" 200 27748
+[02/Nov/2016 05:56:06] "GET /js/base.js HTTP/1.1" 200 1868
+[02/Nov/2016 05:56:06] "GET /js/base_admin.js HTTP/1.1" 200 2508
+[02/Nov/2016 05:56:07] "GET /js/activity_detail.js HTTP/1.1" 200 6293
+[02/Nov/2016 05:56:08] "GET /api/a/login HTTP/1.1" 200 33
+[02/Nov/2016 05:56:25] "GET /img/loading.gif HTTP/1.1" 200 701
+[02/Nov/2016 05:56:25] "POST /api/a/activity/create HTTP/1.1" 200 33
+[02/Nov/2016 05:56:26] "GET /a/activity/list HTTP/1.1" 200 7584
+[02/Nov/2016 05:56:26] "GET /css/activity_list.css HTTP/1.1" 200 443
+[02/Nov/2016 05:56:26] "GET /3rd/jquery.js HTTP/1.1" 200 85659
+[02/Nov/2016 05:56:26] "GET /3rd/bs/js/bootstrap.min.js HTTP/1.1" 200 27748
+[02/Nov/2016 05:56:26] "GET /3rd/swig.js HTTP/1.1" 200 46482
+[02/Nov/2016 05:56:26] "GET /js/base.js HTTP/1.1" 200 1868
+[02/Nov/2016 05:56:26] "GET /3rd/bs/css/bootstrap.min.css HTTP/1.1" 200 102923
+[02/Nov/2016 05:56:26] "GET /js/base_admin.js HTTP/1.1" 200 2508
+[02/Nov/2016 05:56:26] "GET /js/activity_list.js HTTP/1.1" 200 5168
+[02/Nov/2016 05:56:27] "GET /api/a/login HTTP/1.1" 200 33
+[02/Nov/2016 05:56:27] "GET /api/a/activity/list HTTP/1.1" 200 922
+[02/Nov/2016 05:56:27] "GET /3rd/bs/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 200 23292
+/usr/local/lib/python3.4/dist-packages/django/db/models/fields/__init__.py:1430: RuntimeWarning: DateTimeField Activity.book_end received a naive datetime (2016-11-02 05:56:31.366523) while time zone support is active.
+  RuntimeWarning)
+[02/Nov/2016 05:56:31] "POST /wechat?signature=28f48079fa430f4767c6f0687cc0b193dce8f265&timestamp=1478066191&nonce=220664917&openid=osV0Cv8nd7DT6TS6grc1T4stWAdg HTTP/1.1" 200 815
+[02/Nov/2016 05:56:47] "POST /wechat?signature=7ece6f679c192c45b20e55fae1d86f5dc7bc2839&timestamp=1478066207&nonce=339405445&openid=osV0Cv8nd7DT6TS6grc1T4stWAdg HTTP/1.1" 200 301
+[02/Nov/2016 05:56:52] "GET /a/activity/detail?id=6 HTTP/1.1" 200 25618
+[02/Nov/2016 05:56:52] "GET /css/activity_detail.css HTTP/1.1" 200 395
+[02/Nov/2016 05:56:52] "GET /3rd/bs/css/bootstrap.min.css HTTP/1.1" 200 102923
+[02/Nov/2016 05:56:52] "GET /3rd/jquery.js HTTP/1.1" 200 85659
+[02/Nov/2016 05:56:52] "GET /3rd/bs/js/bootstrap.min.js HTTP/1.1" 200 27748
+[02/Nov/2016 05:56:52] "GET /3rd/swig.js HTTP/1.1" 200 46482
+[02/Nov/2016 05:56:52] "GET /js/base.js HTTP/1.1" 200 1868
+[02/Nov/2016 05:56:52] "GET /js/base_admin.js HTTP/1.1" 200 2508
+[02/Nov/2016 05:56:53] "GET /js/activity_detail.js HTTP/1.1" 200 6293
+[02/Nov/2016 05:56:54] "GET /img/loading.gif HTTP/1.1" 200 701
+[02/Nov/2016 05:56:54] "GET /api/a/login HTTP/1.1" 200 33
+[02/Nov/2016 05:56:54] "GET /api/a/activity/detail?id=6 HTTP/1.1" 200 321
+[02/Nov/2016 05:56:57] "GET /api/a/activity/list HTTP/1.1" 200 922
+[02/Nov/2016 05:56:57] "GET /3rd/bs/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 200 23292
+[02/Nov/2016 05:57:04] "POST /wechat?signature=03c3053d69327e02de3b38cc2e49a95bf1d826d4&timestamp=1478066224&nonce=735233355&openid=osV0Cv8nd7DT6TS6grc1T4stWAdg HTTP/1.1" 200 609
+[02/Nov/2016 05:57:16] "POST /wechat?signature=37a8a254577c4a008bdccca11c5cca227e7de779&timestamp=1478066236&nonce=1302192159&openid=osV0Cv8nd7DT6TS6grc1T4stWAdg HTTP/1.1" 200 274
+[02/Nov/2016 05:57:17] "GET /u/help?nsukey=vUmpwFmb3M6v0UAZPMZOJB3H%2F6nXHVniuJ3RMohIqJdcoar4CbYcCJCJfjeQrka%2BQN%2FMaJC4Ln4xbp%2Bs%2Bdz467EoCS%2FM7uiQaqRt%2F24FIbXzOZMLHqfcq30mosoLeedr%2FrnfhaXqcLbxQQ24YgqRgQ%3D%3D HTTP/1.1" 200 5556
+[02/Nov/2016 05:57:17] "GET /u/help?nsukey=vUmpwFmb3M6v0UAZPMZOJB3H%2F6nXHVniuJ3RMohIqJdcoar4CbYcCJCJfjeQrka%2BQN%2FMaJC4Ln4xbp%2Bs%2Bdz467EoCS%2FM7uiQaqRt%2F24FIbXzOZMLHqfcq30mosoLeedr%2FrnfhaXqcLbxQQ24YgqRgQ%3D%3D HTTP/1.1" 200 5556
+[02/Nov/2016 05:57:17] "GET /u/help?nsukey=vUmpwFmb3M6v0UAZPMZOJB3H%2F6nXHVniuJ3RMohIqJdcoar4CbYcCJCJfjeQrka%2BQN%2FMaJC4Ln4xbp%2Bs%2Bdz467EoCS%2FM7uiQaqRt%2F24FIbXzOZMLHqfcq30mosoLeedr%2FrnfhaXqcLbxQQ24YgqRgQ%3D%3D HTTP/1.1" 200 5556
+[02/Nov/2016 05:57:17] "GET /3rd/jquery.js HTTP/1.1" 200 85659
+[02/Nov/2016 05:57:17] "GET /3rd/jquery.js HTTP/1.1" 200 85659
+[02/Nov/2016 05:57:17] "GET /3rd/swig.js HTTP/1.1" 200 46482
+[02/Nov/2016 05:57:18] "GET /3rd/swig.js HTTP/1.1" 200 46482
+[02/Nov/2016 05:57:18] "GET /3rd/jquery.js HTTP/1.1" 200 85659
+[02/Nov/2016 05:57:18] "GET /js/weixin_lib.js HTTP/1.1" 200 1594
+[02/Nov/2016 05:57:18] "GET /js/help.js HTTP/1.1" 200 465
+[02/Nov/2016 05:57:19] "GET /3rd/swig.js HTTP/1.1" 200 46482
+[02/Nov/2016 05:57:19] "GET /js/weixin_lib.js HTTP/1.1" 200 1594
+[02/Nov/2016 05:57:19] "GET /js/help.js HTTP/1.1" 200 465
+[02/Nov/2016 05:57:19] "GET /js/weixin_lib.js HTTP/1.1" 200 1594
+[02/Nov/2016 05:57:19] "GET /js/help.js HTTP/1.1" 200 465
+[02/Nov/2016 05:57:24] "POST /wechat?signature=c4705f5e0682b0612cb86186c9787f3837cf3bd6&timestamp=1478066244&nonce=621717526&openid=osV0Cv8nd7DT6TS6grc1T4stWAdg HTTP/1.1" 200 609
+[02/Nov/2016 05:57:43] "GET /a/activity/checkin?id=6 HTTP/1.1" 200 5190
+[02/Nov/2016 05:57:43] "GET /css/activity_checkin.css HTTP/1.1" 200 740
+[02/Nov/2016 05:57:43] "GET /3rd/bs/css/bootstrap.min.css HTTP/1.1" 200 102923
+[02/Nov/2016 05:57:43] "GET /3rd/bs/js/bootstrap.min.js HTTP/1.1" 200 27748
+[02/Nov/2016 05:57:43] "GET /3rd/screenfull/screenfull.min.js HTTP/1.1" 200 1828
+[02/Nov/2016 05:57:43] "GET /3rd/jquery.js HTTP/1.1" 200 85659
+[02/Nov/2016 05:57:43] "GET /3rd/swig.js HTTP/1.1" 200 46482
+[02/Nov/2016 05:57:43] "GET /js/base.js HTTP/1.1" 200 1868
+[02/Nov/2016 05:57:43] "GET /js/base_admin.js HTTP/1.1" 200 2508
+[02/Nov/2016 05:57:43] "GET /js/activity_checkin.js HTTP/1.1" 200 2675
+[02/Nov/2016 05:57:43] "GET /img/pause.png HTTP/1.1" 200 25836
+[02/Nov/2016 05:57:45] "GET /api/a/login HTTP/1.1" 200 33
+[02/Nov/2016 05:57:45] "GET /api/a/activity/detail?id=6 HTTP/1.1" 200 321
+[02/Nov/2016 05:57:45] "GET /img/student_logo.png HTTP/1.1" 200 13589
+[02/Nov/2016 05:57:45] "GET /img/arrow_right.png HTTP/1.1" 200 32184
+[02/Nov/2016 05:57:50] "GET /img/checking.gif HTTP/1.1" 200 701
+[02/Nov/2016 05:57:50] "POST /api/a/activity/checkin HTTP/1.1" 200 85
+[02/Nov/2016 05:57:50] "GET /img/good.png HTTP/1.1" 200 33696
+[02/Nov/2016 05:58:02] "GET /a/activity/list HTTP/1.1" 200 7584
+[02/Nov/2016 05:58:02] "GET /css/activity_list.css HTTP/1.1" 200 443
+[02/Nov/2016 05:58:02] "GET /3rd/bs/js/bootstrap.min.js HTTP/1.1" 200 27748
+[02/Nov/2016 05:58:02] "GET /3rd/bs/css/bootstrap.min.css HTTP/1.1" 200 102923
+[02/Nov/2016 05:58:02] "GET /js/base.js HTTP/1.1" 200 1868
+[02/Nov/2016 05:58:02] "GET /3rd/swig.js HTTP/1.1" 200 46482
+[02/Nov/2016 05:58:02] "GET /3rd/jquery.js HTTP/1.1" 200 85659
+[02/Nov/2016 05:58:02] "GET /js/base_admin.js HTTP/1.1" 200 2508
+[02/Nov/2016 05:58:02] "GET /js/activity_list.js HTTP/1.1" 200 5168
+[02/Nov/2016 05:58:03] "GET /api/a/login HTTP/1.1" 200 33
+[02/Nov/2016 05:58:03] "GET /api/a/activity/list HTTP/1.1" 200 922
+[02/Nov/2016 05:58:03] "GET /3rd/bs/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 200 23292
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 02, 2016 - 05:39:48
+Django version 1.10.2, using settings 'WeChatTicket.settings'
+Starting development server at http://0.0.0.0:80/
+Quit the server with CONTROL-C.
+Not Found: /
+WARNING [2016-11-02 06:02:42,438] base.get_response:152  Not Found: /
+[02/Nov/2016 06:02:42] "GET / HTTP/1.0" 404 1718
+Not Found: /
+WARNING [2016-11-02 06:15:15,740] base.get_response:152  Not Found: /
+[02/Nov/2016 06:15:15] "GET / HTTP/1.0" 404 1718
+Not Found: /check.best-proxies.ru:80
+WARNING [2016-11-02 06:29:43,686] base.get_response:152  Not Found: /check.best-proxies.ru:80
+[02/Nov/2016 06:29:43] "CONNECT check.best-proxies.ru:80 HTTP/1.1" 404 1791
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 02, 2016 - 05:58:11
+Django version 1.10.2, using settings 'WeChatTicket.settings'
+Starting development server at http://0.0.0.0:80/
+Quit the server with CONTROL-C.
+Unhandled exception in thread started by <function check_errors.<locals>.wrapper at 0x7f3c19101048>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/django/utils/autoreload.py", line 226, in wrapper
+    fn(*args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/django/core/management/commands/runserver.py", line 121, in inner_run
+    self.check(display_num_errors=True)
+  File "/usr/local/lib/python3.4/dist-packages/django/core/management/base.py", line 374, in check
+    include_deployment_checks=include_deployment_checks,
+  File "/usr/local/lib/python3.4/dist-packages/django/core/management/base.py", line 361, in _run_checks
+    return checks.run_checks(**kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/django/core/checks/registry.py", line 81, in run_checks
+    new_errors = check(app_configs=app_configs)
+  File "/usr/local/lib/python3.4/dist-packages/django/core/checks/urls.py", line 14, in check_url_config
+    return check_resolver(resolver)
+  File "/usr/local/lib/python3.4/dist-packages/django/core/checks/urls.py", line 24, in check_resolver
+    for pattern in resolver.url_patterns:
+  File "/usr/local/lib/python3.4/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.4/dist-packages/django/urls/resolvers.py", line 313, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python3.4/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.4/dist-packages/django/urls/resolvers.py", line 306, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python3.4/importlib/__init__.py", line 109, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 2254, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 2237, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 2226, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1200, in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 1129, in _exec
+  File "<frozen importlib._bootstrap>", line 1471, in exec_module
+  File "<frozen importlib._bootstrap>", line 321, in _call_with_frames_removed
+  File "/root/WeChatTicket-master/WeChatTicket/urls.py", line 19, in <module>
+    from wechat.views import CustomWeChatView
+  File "/root/WeChatTicket-master/wechat/views.py", line 4, in <module>
+    from wechat.handlers import *
+  File "/root/WeChatTicket-master/wechat/handlers.py", line 134
+    return self.reply_text("您已经拥有该活动的票
+                                      ^
+SyntaxError: EOL while scanning string literal
+Performing system checks...
+
